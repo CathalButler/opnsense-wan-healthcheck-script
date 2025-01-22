@@ -4,7 +4,7 @@ This script checks the status of your WAN connection and sends a ping to [Health
 
 ---
 
-## Prerequisites
+## Requirements
 1. **Access to OPNsense:** Ensure you have admin access to your OPNsense system.
 2. **Healthchecks.io URL:** Sign up at [Healthchecks.io](https://healthchecks.io) and create a new check. Use the generated URL in the script.
 
